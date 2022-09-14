@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": " Maria",
+        "apellido": "Se  fue",
+        "telefono": 12121212,
+        "cedula": 100000000000
+    },
+
+{
+        "nombre": " Susana",
+        "apellido": "Tambien Se fue",
+        "telefono": 111111111111,
+        "cedula": 122044444
+    },
+
+    {
+        "nombre": " jhoana",
+        "apellido": "no se fue",
+        "telefono": 88999999,
+        "cedula": 666666
+    }
+]
